@@ -1,1 +1,7 @@
-
+From Cory Bennett- My goal, and primary reason for using something like a raspberry pi zero besides  
+low-cost, it to explore the efficiency of power generation and system health analysis using off-the-counter piezoelectric ceramics
+to bolster manufacture and application of the technology. A piezoelectric transducer can either entirely power or provide backup power
+for the zeros, and a surface-bonded piezo-patch can provide 3D structure analysis by analyzing electromagnetic impedance,
+and provide better insight into how composite materials deform in space over long periods of time, without compromising other mission
+objectives on the CubeSat.
+------------------------------------------------------END----------------------------------------------------------------------------
